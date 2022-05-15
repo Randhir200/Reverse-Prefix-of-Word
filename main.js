@@ -20,4 +20,4 @@ var reversePrefix = function(word, ch) {
     return bag;
 };
 
-console.log(reversePrefix("abcdefd"))
+console.log(reversePrefix("randhir", "d"))
